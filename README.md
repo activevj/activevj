@@ -16,9 +16,6 @@ Data scientist with 6+ years building production analytics and GenAI systems in 
 
 `Python` · `SQL` · `Snowflake` (Cortex · Cortex Analyst · Cortex Search) · `Databricks` · `PyTorch` *(learning)* · `RAG` · `LLM orchestration` · `Streamlit`
 
-### Certifications
-
-- Snowflake — *[add exact certification names]*
 
 ### Learning in public
 
@@ -28,5 +25,5 @@ Data scientist with 6+ years building production analytics and GenAI systems in 
 
 ### Reach me
 
-- LinkedIn: *[add your profile link]*
-- Email: *[add your email]*
+- LinkedIn: *https://www.linkedin.com/in/vijay-kumar-606784100/*
+- Email: *uservjkumar@gmail.com*
